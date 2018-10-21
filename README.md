@@ -11,7 +11,7 @@ A web-based game where a single player plays the role of a businessman of a corp
 ### What's next for sad businessperson
 We plan to finish the features we did not have time to finish, such as message box and a more convenient map. We would also like to complication the game state by adding various raw products that have different degrees of influence on the environment. We would also like to make it a multi-player game and incorporate interactions between players and the governments and NGOs in the "world." Also we are halfway done the using SQL cloud to save all the user information and game status. We'll implement it in the future.
 
-### screenshot:
+### Screenshots:
 ![alt text](/imgs/1.jpg)
 ![alt text](/imgs/2.jpg)
 ![alt text](/imgs/3.jpg)
